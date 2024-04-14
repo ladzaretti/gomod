@@ -9,13 +9,13 @@ require (
 	github.com/docker/distribution v2.8.2+incompatible
 	github.com/docker/docker v23.0.6+incompatible
 	github.com/gammazero/workerpool v1.1.3
-	github.com/google/go-cmp v0.5.8
+	github.com/google/go-cmp v0.5.9
 	github.com/kelseyhightower/envconfig v1.4.0
 	github.com/opencontainers/image-spec v1.0.2
 	github.com/rs/zerolog v1.29.1
 	golang.org/x/sync v0.1.0
 	golang.org/x/sys v0.5.0
-	gotest.tools/v3 v3.4.0
+	gotest.tools/v3 v3.5.1
 )
 
 require (
