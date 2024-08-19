@@ -1,5 +1,5 @@
 renovateWorker:
   image:
     repository: ghcr.io/mend/renovate-ee-worker
-    version: 8.0.0-full@sha256:9eb144e8f29b08a25bcc1a7361accb25ea6fe3b8292ce2cdfc3a152c4a5da1df
+    version: 7.6.1-full@sha256:9eb144e8f29b08a25bcc1a7361accb25ea6fe3b8292ce2cdfc3a152c4a5da1df
     pullPolicy: Always
