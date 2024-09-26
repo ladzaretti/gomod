@@ -12,9 +12,9 @@ require (
 	github.com/google/go-cmp v0.5.8
 	github.com/kelseyhightower/envconfig v1.4.0
 	github.com/opencontainers/image-spec v1.0.2
-	github.com/rs/zerolog v1.29.1
+	github.com/rs/zerolog v1.33.0
 	golang.org/x/sync v0.1.0
-	golang.org/x/sys v0.5.0
+	golang.org/x/sys v0.12.0
 	gotest.tools/v3 v3.4.0
 )
 
@@ -41,8 +41,8 @@ require (
 	github.com/gammazero/deque v0.2.0 // indirect
 	github.com/gogo/protobuf v1.3.2 // indirect
 	github.com/jmespath/go-jmespath v0.4.0 // indirect
-	github.com/mattn/go-colorable v0.1.12 // indirect
-	github.com/mattn/go-isatty v0.0.14 // indirect
+	github.com/mattn/go-colorable v0.1.13 // indirect
+	github.com/mattn/go-isatty v0.0.19 // indirect
 	github.com/moby/term v0.5.0 // indirect
 	github.com/morikuni/aec v1.0.0 // indirect
 	github.com/opencontainers/go-digest v1.0.0 // indirect
