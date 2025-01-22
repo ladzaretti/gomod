@@ -7,7 +7,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/ecr v1.20.2
 	github.com/aws/aws-sdk-go-v2/service/s3 v1.36.0
 	github.com/docker/distribution v2.8.2+incompatible
-	github.com/docker/docker v23.0.6+incompatible
+	github.com/docker/docker v23.0.16+incompatible
 	github.com/gammazero/workerpool v1.1.3
 	github.com/google/go-cmp v0.5.8
 	github.com/kelseyhightower/envconfig v1.4.0
