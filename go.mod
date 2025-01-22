@@ -1,6 +1,6 @@
 module job-runner
 
-go 1.20
+go 1.30
 
 require (
 	github.com/aws/aws-sdk-go-v2/config v1.18.27
